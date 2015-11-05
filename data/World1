@@ -1,0 +1,12 @@
+%name diameter tail-lifespan[year] color point-file texture-file
+data/pos/
+Sun     1392038 0       1.0,1.0,1.0 planet_xyz_no0.bpa Sun_1024x512.raw
+Mercury 4879.4  0.241   0.7,0.3,0.2 planet_xyz_no1.bpa Mercury_1024x512.raw
+Venus   12103.6 0.615   1.0,1.0,0.7 planet_xyz_no2.bpa Venus_1024x512.raw
+Earth   12756.3 1.000   0.2,0.5,1.0 planet_xyz_no3.bpa Earth_1000x500.raw
+Mars    6794.4  1.881   0.5,0.3,0.1 planet_xyz_no4.bpa Mars_1024x512.raw
+Jupiter 142984  11.86   1.0,0.8,0.8 planet_xyz_no5.bpa Jupiter_1024x512.raw
+Saturn  120536  29.46   0.7,0.3,0.2 planet_xyz_no6.bpa Saturn_1800x900.raw
+Uranus  51118   84.01   0.5,0.6,1.0 planet_xyz_no7.bpa Uranus_1024x512.raw
+Neptune 49572   164.79  0.0,0.0,1.0 planet_xyz_no8.bpa Neptune_1024x512.raw
+Pluto   2304    247.74  0.8,0.8,0.8 planet_xyz_no9.bpa Pluto_1000x500.raw
